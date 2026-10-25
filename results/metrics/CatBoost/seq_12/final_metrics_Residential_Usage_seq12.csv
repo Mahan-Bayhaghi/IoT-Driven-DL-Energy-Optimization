@@ -1,0 +1,2 @@
+model,target,sequence_length,mse,mae,rmse,r2,mape,best_params,timestamp
+CatBoost,Residential_Usage,12,8271.555210824428,68.50677917914854,90.94809074864864,0.9363934536351893,4.300510961767094,"{'depth': 9, 'learning_rate': 0.09405699573824251, 'l2_leaf_reg': 0.000296530908192673, 'random_strength': 0.002951862370404065, 'bagging_temperature': 0.40095596968204394, 'border_count': 185, 'loss_function': 'RMSE', 'iterations': 50, 'early_stopping_rounds': 20, 'verbose': False, 'logging_level': 'Silent'}",2026-01-01T16:28:22.369120

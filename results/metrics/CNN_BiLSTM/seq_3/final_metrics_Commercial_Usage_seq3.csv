@@ -1,0 +1,2 @@
+model,target,sequence_length,mse,mae,rmse,r2,mape,best_params,timestamp
+CNN-BiLSTM,Commercial_Usage,3,11515.3388671875,84.89183044433594,107.3095474243164,0.42195117473602295,6.121288239955902,"{'conv_filters': 4, 'kernel_size': 3, 'lstm_hidden_size': 50, 'lstm_num_layers': 3, 'dropout_rate': 0.1, 'fc1_units': 32, 'fc2_units': 16, 'learning_rate': 0.01, 'batch_size': 128, 'weight_decay': 1e-06}",2026-01-01T22:31:21.821583

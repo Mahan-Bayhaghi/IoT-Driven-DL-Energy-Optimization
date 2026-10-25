@@ -1,0 +1,2 @@
+target,sequence_length,mse,mae,rmse,r2,mape,best_params
+Commercial_Usage,3,17463.17,96.29417,132.14828,0.12338101863861084,6.757909059524536,"{'conv_filters': 1, 'kernel_size': 3, 'fc1_units': 4, 'fc2_units': 4, 'dropout_rate': 0.1, 'learning_rate': 0.05, 'batch_size': 128}"

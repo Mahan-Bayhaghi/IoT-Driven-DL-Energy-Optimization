@@ -1,0 +1,2 @@
+model,target,sequence_length,mse,mae,rmse,r2,mape,best_params,timestamp
+BiLSTM,Residential_Usage,12,81313.546875,217.76446533203125,285.1553039550781,0.3747156858444214,12.980648875236511,"{'hidden_size': 50, 'num_layers': 2, 'dropout_rate': 0.1, 'fc1_units': 16, 'fc2_units': 4, 'learning_rate': 0.01, 'batch_size': 128}",2026-01-01T21:56:10.193563

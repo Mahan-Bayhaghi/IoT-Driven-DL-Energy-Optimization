@@ -1,0 +1,2 @@
+model,target,sequence_length,mse,mae,rmse,r2,mape,best_params,timestamp
+BiLSTM,Commercial_Usage,12,61221.55078125,209.4208221435547,247.4298858642578,-2.1257009506225586,14.608097076416016,"{'hidden_size': 50, 'num_layers': 2, 'dropout_rate': 0.1, 'fc1_units': 16, 'fc2_units': 4, 'learning_rate': 0.01, 'batch_size': 128}",2026-01-01T21:56:17.287976

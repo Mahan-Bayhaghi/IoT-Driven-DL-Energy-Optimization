@@ -1,0 +1,7 @@
+Model,MSE,MSE_Seq,MSE_Target,MAE,MAE_Seq,MAE_Target,RMSE,RMSE_Seq,RMSE_Target,R²,R²_Seq,R²_Target,MAPE,MAPE_Seq,MAPE_Target
+CNN,17463.17,3.0,Com,96.29,3.0,Com,132.15,3.0,Com,0.65,3.0,Res,6.76,3.0,Com
+BiLSTM,21053.07,3.0,Com,118.52,3.0,Com,145.10,3.0,Com,0.64,3.0,Res,8.46,3.0,Com
+CNN-BiLSTM,10792.80,12.0,Com,84.64,12.0,Com,103.89,12.0,Com,0.81,12.0,Res,6.26,12.0,Com
+LGBM,1517.77,1.0,Com,30.05,1.0,Com,38.96,1.0,Com,0.96,12.0,Res,2.20,1.0,Com
+CatBoost,1426.18,3.0,Com,28.29,1.0,Com,37.76,3.0,Com,0.94,3.0,Res,2.06,1.0,Com
+XGBoost,1326.47,1.0,Com,27.03,1.0,Com,36.42,1.0,Com,0.95,12.0,Res,1.95,1.0,Com

@@ -1,0 +1,2 @@
+target,sequence_length,mse,mae,rmse,r2,mape,best_params
+Residential_Usage,3,44575.75,175.11154,211.1297,0.6535587310791016,11.188016831874847,"{'conv_filters': 1, 'kernel_size': 3, 'fc1_units': 4, 'fc2_units': 2, 'dropout_rate': 0.1, 'learning_rate': 0.1, 'batch_size': 128}"
